@@ -1,0 +1,15 @@
+/Users/issssida/Examples/Examples001_HelloWorld/bin/Debug/net7.0/Examples001_HelloWorld
+/Users/issssida/Examples/Examples001_HelloWorld/bin/Debug/net7.0/Examples001_HelloWorld.deps.json
+/Users/issssida/Examples/Examples001_HelloWorld/bin/Debug/net7.0/Examples001_HelloWorld.runtimeconfig.json
+/Users/issssida/Examples/Examples001_HelloWorld/bin/Debug/net7.0/Examples001_HelloWorld.dll
+/Users/issssida/Examples/Examples001_HelloWorld/bin/Debug/net7.0/Examples001_HelloWorld.pdb
+/Users/issssida/Examples/Examples001_HelloWorld/obj/Debug/net7.0/Examples001_HelloWorld.csproj.AssemblyReference.cache
+/Users/issssida/Examples/Examples001_HelloWorld/obj/Debug/net7.0/Examples001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/issssida/Examples/Examples001_HelloWorld/obj/Debug/net7.0/Examples001_HelloWorld.AssemblyInfoInputs.cache
+/Users/issssida/Examples/Examples001_HelloWorld/obj/Debug/net7.0/Examples001_HelloWorld.AssemblyInfo.cs
+/Users/issssida/Examples/Examples001_HelloWorld/obj/Debug/net7.0/Examples001_HelloWorld.csproj.CoreCompileInputs.cache
+/Users/issssida/Examples/Examples001_HelloWorld/obj/Debug/net7.0/Examples001_HelloWorld.dll
+/Users/issssida/Examples/Examples001_HelloWorld/obj/Debug/net7.0/refint/Examples001_HelloWorld.dll
+/Users/issssida/Examples/Examples001_HelloWorld/obj/Debug/net7.0/Examples001_HelloWorld.pdb
+/Users/issssida/Examples/Examples001_HelloWorld/obj/Debug/net7.0/Examples001_HelloWorld.genruntimeconfig.cache
+/Users/issssida/Examples/Examples001_HelloWorld/obj/Debug/net7.0/ref/Examples001_HelloWorld.dll
